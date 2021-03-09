@@ -42,7 +42,7 @@
 | 40 | [A Tale of Two Lands](https://codeforces.com/problemset/problem/1166/C) | 1600 | 1 |
 | 41 | [Primes and Multiplication](https://codeforces.com/problemset/problem/1228/C) | 1600 | 1 |
 | 42 | [Tram](https://codeforces.com/problemset/problem/746/C) | 1600 |  |
-| 43 | [Jury Marks](https://codeforces.com/problemset/problem/831/C) | 1600 |  |
+| 43 | [Jury Marks](https://codeforces.com/problemset/problem/831/C) | 1600 |1  |
 | 44 | [Okabe and Boxes](https://codeforces.com/problemset/problem/821/C) | 1600 |  |
 | 45 | [Serval and Parenthesis Sequence](https://codeforces.com/problemset/problem/1153/C) | 1600 |  |
 | 46 | [Rectangles](https://codeforces.com/problemset/problem/1028/C) | 1600 | 1 |
