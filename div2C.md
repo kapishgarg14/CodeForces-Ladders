@@ -38,7 +38,7 @@
 | 36 | [Round Corridor](https://codeforces.com/problemset/problem/1200/C) | 1500 |  |
 | 37 | [Swap Letters](https://codeforces.com/problemset/problem/1215/C) | 1500 |  |
 | 38 | [Sweets Eating](https://codeforces.com/problemset/problem/1253/C) | 1500 |  |
-| 39 | [Sequence Transformation](https://codeforces.com/problemset/problem/1059/C) | 1500 |  |
+| 39 | [Sequence Transformation](https://codeforces.com/problemset/problem/1059/C) | 1500 | 1 |
 | 40 | [A Tale of Two Lands](https://codeforces.com/problemset/problem/1166/C) | 1600 | 1 |
 | 41 | [Primes and Multiplication](https://codeforces.com/problemset/problem/1228/C) | 1600 | 1 |
 | 42 | [Tram](https://codeforces.com/problemset/problem/746/C) | 1600 |  |
@@ -48,7 +48,7 @@
 | 46 | [Rectangles](https://codeforces.com/problemset/problem/1028/C) | 1600 | 1 |
 | 47 | [Plasticine zebra](https://codeforces.com/problemset/problem/1025/C) | 1600 |  |
 | 48 | [Cave Painting](https://codeforces.com/problemset/problem/922/C) | 1600 |  1|
-| 49 | [League of Leesins](https://codeforces.com/problemset/problem/1255/C) | 1600 |  |
+| 49 | [League of Leesins](https://codeforces.com/problemset/problem/1255/C) | 1600 | 1 |
 | 50 | [Paint the Digits](https://codeforces.com/problemset/problem/1209/C) | 1600 |1  |
 | 51 | [Kuro and Walking Route](https://codeforces.com/problemset/problem/979/C) | 1600 |  |
 | 52 | [The Phone Number](https://codeforces.com/problemset/problem/1017/C) | 1600 |  |
