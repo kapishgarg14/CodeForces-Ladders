@@ -36,8 +36,8 @@
 | 34 | [Candies](https://codeforces.com/problemset/problem/991/C) | 1500 |  |
 | 35 | [Cut 'em all!](https://codeforces.com/problemset/problem/982/C) | 1500 |  |
 | 36 | [Round Corridor](https://codeforces.com/problemset/problem/1200/C) | 1500 |  |
-| 37 | [Swap Letters](https://codeforces.com/problemset/problem/1215/C) | 1500 |  |
-| 38 | [Sweets Eating](https://codeforces.com/problemset/problem/1253/C) | 1500 |  |
+| 37 | [Swap Letters](https://codeforces.com/problemset/problem/1215/C) | 1500 |  1|
+| 38 | [Sweets Eating](https://codeforces.com/problemset/problem/1253/C) | 1500 |1  |
 | 39 | [Sequence Transformation](https://codeforces.com/problemset/problem/1059/C) | 1500 | 1 |
 | 40 | [A Tale of Two Lands](https://codeforces.com/problemset/problem/1166/C) | 1600 | 1 |
 | 41 | [Primes and Multiplication](https://codeforces.com/problemset/problem/1228/C) | 1600 | 1 |
