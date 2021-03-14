@@ -52,10 +52,10 @@
 | 50 | [Paint the Digits](https://codeforces.com/problemset/problem/1209/C) | 1600 |1  |
 | 51 | [Kuro and Walking Route](https://codeforces.com/problemset/problem/979/C) | 1600 |  |
 | 52 | [The Phone Number](https://codeforces.com/problemset/problem/1017/C) | 1600 |  |
-| 53 | [Convenient For Everybody](https://codeforces.com/problemset/problem/939/C) | 1600 |  |
+| 53 | [Convenient For Everybody](https://codeforces.com/problemset/problem/939/C) | 1600 | 1 |
 | 54 | [Hacker, pack your bags!](https://codeforces.com/problemset/problem/822/C) | 1600 |  |
 | 55 | [Maximum Subrectangle](https://codeforces.com/problemset/problem/1060/C) | 1600 |  |
-| 56 | [Anton and Fairy Tale](https://codeforces.com/problemset/problem/785/C) | 1600 |  |
+| 56 | [Anton and Fairy Tale](https://codeforces.com/problemset/problem/785/C) | 1600 | 1 |
 | 57 | [Jamie and Interesting Graph](https://codeforces.com/problemset/problem/916/C) | 1600 |  |
 | 58 | [Banh-mi](https://codeforces.com/problemset/problem/1062/C) | 1600 |  |
 | 59 | [Alyona and Spreadsheet](https://codeforces.com/problemset/problem/777/C) | 1600 |  |
