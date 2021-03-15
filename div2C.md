@@ -53,15 +53,15 @@
 | 51 | [Kuro and Walking Route](https://codeforces.com/problemset/problem/979/C) | 1600 |  |
 | 52 | [The Phone Number](https://codeforces.com/problemset/problem/1017/C) | 1600 |  |
 | 53 | [Convenient For Everybody](https://codeforces.com/problemset/problem/939/C) | 1600 | 1 |
-| 54 | [Hacker, pack your bags!](https://codeforces.com/problemset/problem/822/C) | 1600 |  |
+| 54 | [Hacker, pack your bags!](https://codeforces.com/problemset/problem/822/C) | 1600 | 1 |
 | 55 | [Maximum Subrectangle](https://codeforces.com/problemset/problem/1060/C) | 1600 |  |
 | 56 | [Anton and Fairy Tale](https://codeforces.com/problemset/problem/785/C) | 1600 | 1 |
 | 57 | [Jamie and Interesting Graph](https://codeforces.com/problemset/problem/916/C) | 1600 |  |
-| 58 | [Banh-mi](https://codeforces.com/problemset/problem/1062/C) | 1600 |  |
-| 59 | [Alyona and Spreadsheet](https://codeforces.com/problemset/problem/777/C) | 1600 |  |
+| 58 | [Banh-mi](https://codeforces.com/problemset/problem/1062/C) | 1600 | 1 |
+| 59 | [Alyona and Spreadsheet](https://codeforces.com/problemset/problem/777/C) | 1600 |1  |
 | 60 | [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C) | 1600 |  |
 | 61 | [Dasha and Password](https://codeforces.com/problemset/problem/761/C) | 1600 |  |
-| 62 | [Masha and two friends](https://codeforces.com/problemset/problem/1080/C) | 1600 |  |
+| 62 | [Masha and two friends](https://codeforces.com/problemset/problem/1080/C) | 1600 |1  |
 | 63 | [Fifa and Fafa](https://codeforces.com/problemset/problem/935/C) | 1700 |  |
 | 64 | [Subsequence Counting](https://codeforces.com/problemset/problem/960/C) | 1700 |  |
 | 65 | [Fountains](https://codeforces.com/problemset/problem/799/C) | 1700 |  |
