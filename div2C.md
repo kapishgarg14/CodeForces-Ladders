@@ -43,10 +43,10 @@
 | 41 | [Primes and Multiplication](https://codeforces.com/problemset/problem/1228/C) | 1600 | 1 |
 | 42 | [Tram](https://codeforces.com/problemset/problem/746/C) | 1600 |  |
 | 43 | [Jury Marks](https://codeforces.com/problemset/problem/831/C) | 1600 |1  |
-| 44 | [Okabe and Boxes](https://codeforces.com/problemset/problem/821/C) | 1600 |  |
+| 44 | [Okabe and Boxes](https://codeforces.com/problemset/problem/821/C) | 1600 |1  |
 | 45 | [Serval and Parenthesis Sequence](https://codeforces.com/problemset/problem/1153/C) | 1600 |  |
 | 46 | [Rectangles](https://codeforces.com/problemset/problem/1028/C) | 1600 | 1 |
-| 47 | [Plasticine zebra](https://codeforces.com/problemset/problem/1025/C) | 1600 |  |
+| 47 | [Plasticine zebra](https://codeforces.com/problemset/problem/1025/C) | 1600 |1  |
 | 48 | [Cave Painting](https://codeforces.com/problemset/problem/922/C) | 1600 |  1|
 | 49 | [League of Leesins](https://codeforces.com/problemset/problem/1255/C) | 1600 | 1 |
 | 50 | [Paint the Digits](https://codeforces.com/problemset/problem/1209/C) | 1600 |1  |
