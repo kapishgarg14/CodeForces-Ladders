@@ -63,18 +63,18 @@
 | 61 | [Dasha and Password](https://codeforces.com/problemset/problem/761/C) | 1600 |  |
 | 62 | [Masha and two friends](https://codeforces.com/problemset/problem/1080/C) | 1600 |1  |
 | 63 | [Fifa and Fafa](https://codeforces.com/problemset/problem/935/C) | 1700 |  |
-| 64 | [Subsequence Counting](https://codeforces.com/problemset/problem/960/C) | 1700 |  |
-| 65 | [Fountains](https://codeforces.com/problemset/problem/799/C) | 1700 |  |
-| 66 | [Mike and gcd problem](https://codeforces.com/problemset/problem/798/C) | 1700 |  |
+| 64 | [Subsequence Counting](https://codeforces.com/problemset/problem/960/C) | 1700 | 1 |
+| 65 | [Fountains](https://codeforces.com/problemset/problem/799/C) | 1700 | 1 |
+| 66 | [Mike and gcd problem](https://codeforces.com/problemset/problem/798/C) | 1700 |1  |
 | 67 | [Creative Snap](https://codeforces.com/problemset/problem/1111/C) | 1700 |  |
 | 68 | [Trailing Loves (or L'oeufs?)](https://codeforces.com/problemset/problem/1114/C) | 1700 |  |
-| 69 | [Remove Extra One](https://codeforces.com/problemset/problem/900/C) | 1700 |  |
-| 70 | [Array Product](https://codeforces.com/problemset/problem/1042/C) | 1700 |  |
-| 71 | [Problem for Nazar](https://codeforces.com/problemset/problem/1151/C) | 1700 |  |
+| 69 | [Remove Extra One](https://codeforces.com/problemset/problem/900/C) | 1700 |1  |
+| 70 | [Array Product](https://codeforces.com/problemset/problem/1042/C) | 1700 | 1 |
+| 71 | [Problem for Nazar](https://codeforces.com/problemset/problem/1151/C) | 1700 |1  |
 | 72 | [Posterized](https://codeforces.com/problemset/problem/980/C) | 1700 |  |
-| 73 | [Laboratory Work](https://codeforces.com/problemset/problem/931/C) | 1700 |  |
+| 73 | [Laboratory Work](https://codeforces.com/problemset/problem/931/C) | 1700 |1  |
 | 74 | [Beautiful Lyrics](https://codeforces.com/problemset/problem/1182/C) | 1700 |  |
-| 75 | [Multiplicity](https://codeforces.com/problemset/problem/1061/C) | 1700 |  |
+| 75 | [Multiplicity](https://codeforces.com/problemset/problem/1061/C) | 1700 | 1 |
 | 76 | [Anna, Svyatoslav and Maps](https://codeforces.com/problemset/problem/1204/C) | 1700 |  |
 | 77 | [Magic Grid](https://codeforces.com/problemset/problem/1208/C) | 1800 |  |
 | 78 | [Naming Company](https://codeforces.com/problemset/problem/794/C) | 1800 |  |
